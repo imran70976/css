@@ -1,0 +1,22 @@
+h1 {
+    color:rgba(197, 199, 255, 0.809);
+    text-align: center;
+}
+
+p{
+    color:rgb(143, 165, 234) !important;
+}
+
+img{
+        width: 300px;
+        height: 300px;
+    }
+
+    h1{
+
+    background-color:rgb (0,0,0)
+
+    }
+
+
+    /* command forward slash for comment */
